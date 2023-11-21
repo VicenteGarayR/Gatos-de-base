@@ -1,0 +1,102 @@
+pid,titulo,duracion,clasificacion,puntuacion,año,genero
+74,The Boxtrolls,96,NC-17,1.0,2014,Comedia
+6,Fahrenheit 451,100,G,3.0,2018,Ciencia ficción apocalíptica
+27,42,128,G,6.7,2013,Drama
+41,The Mechanic,93,G,8.7,2011,Acción
+45,The Tree of Life,139,PG-13,7.4,2011,Fantasía
+42,Prince of Persia: The Sands of Time,116,PG,2.4,2010,Fantasía
+30,Captain America: The First Avenger,124,PG,4.1,2011,Aventura
+98,The Babymakers,95,NC-17,6.6,2012,Comedia
+79,R.I.P.D.,96,PG-13,5.1,2013,Comedia
+32,Drunkboat,98,PG,8.6,2010,Drama
+52,Chasing 3000,115,G,9.8,2010,Familiar
+51,Barry Munday,95,PG,5.0,2010,Comedia
+93,The Power of Few,96,G,4.5,2013,Acción
+12,Tangled,100,PG,7.9,2010,Animación
+46,Ant-Man,117,PG-13,7.4,2015,Comedia
+90,She's Out of My League,104,G,9.6,2010,Comedia
+60,Love & Other Drugs,112,PG-13,6.8,2010,Romance
+23,Puss in Boots,90,PG-13,4.0,2011,Animación
+7,A Walk Among the Tombstones,114,G,2.7,2014,Drama
+47,Season of the Witch,95,PG,2.6,2011,Acción
+40,Tower Heist,104,PG-13,5.9,2011,Comedia
+99,Electric Slide,95,PG,6.7,2014,Biografía
+85,Thor,115,PG,10.0,2011,Fantasía
+10,Motherless Brooklyn,144,PG-13,9.7,2019,Misterio
+83,13,91,PG-13,2.6,2010,Thriller
+65,What's Your Number?,106,G,1.4,2011,Comedia
+59,Rings,102,G,7.3,2017,Misterio
+31,Sin City: A Dame to Kill For,102,PG,9.1,2014,Acción
+21,Before We Go,95,PG-13,9.1,2014,Drama
+15,The Stanford Prison Experiment,122,PG-13,1.2,2015,Histórico
+5,The Evil Within,98,PG-13,4.6,2017,Horror
+4,In My Sleep,104,PG,1.6,2010,Drama
+56,Something Borrowed,112,PG-13,3.2,2011,Drama
+19,Satin,84,PG-13,5.8,2011,Drama
+87,It's Kind of a Funny Story,101,PG,8.1,2010,Drama
+86,Devil's Knot,114,R,8.3,2013,Crimen
+89,The Do-Deca-Pentathlon,76,PG,9.4,2012,Comedia
+66,Jersey Justice,100,PG-13,6.3,2014,Thriller
+78,Jack Reacher,130,G,9.8,2012,Acción
+36,House at the End of the Drive,91,G,1.1,2014,Horror
+61,Syrup,90,PG-13,2.6,2013,Romance
+82,Scary Movie 5,88,PG,7.2,2013,Horror
+20,Toy Story 3,103,G,1.1,2010,Animación
+14,Disconnect,112,PG-13,2.1,2010,Drama
+2,Life's a Beach,100,PG-13,9.0,2012,Comedia
+71,Santorini Blue,90,PG,6.7,2013,Comedia
+44,Extremely Loud & Incredibly Close,129,G,4.1,2011,Misterio
+22,A Bird of the Air,108,PG-13,5.1,2011,Drama
+77,Elliot Loves,92,G,1.9,2012,Comedia
+8,Jurassic World,124,G,7.8,2015,Ciencia ficción
+100,Krystal,90,PG-13,2.0,2017,Drama
+95,Priest,87,PG,3.8,2011,Thriller
+29,The Equalizer,132,PG,3.9,2014,Crimen
+48,Atlas Shrugged: Part I,97,G,3.3,2011,Drama
+81,The Yellow Wallpaper,115,PG,5.3,2012,Thriller
+92,Valentine's Day,125,PG,5.3,2010,Comedia
+13,John Carter,132,NC-17,5.4,2012,Romance Planetario
+72,The Wolfman,103,G,4.5,2010,Fantasía
+54,Aftermath,84,PG-13,3.6,2013,Thriller
+38,Harlem Hostel,81,PG-13,3.7,2010,Comedia
+91,Flipped,90,PG-13,6.9,2010,Comedia
+67,Cell,98,PG,8.8,2016,Drama
+50,The Croods,98,G,5.3,2013,Aventura
+26,Sludge,95,G,1.7,2017,Horror
+1,Return to Babylon,75,G,7.1,2013,Biografía
+28,Being Flynn,102,PG,9.9,2012,Drama
+37,Margaret,150,PG-13,1.7,2011,Drama
+55,The Invited,95,G,5.3,2010,Horror
+73,The Last Full Measure,116,G,9.7,2019,Guerra
+69,Drive,100,G,1.1,2011,Crimen
+58,Ramona and Beezus,104,G,5.4,2010,Familiar
+84,The Dirt,107,PG-13,1.3,2019,Drama
+80,Miles Ahead,100,G,5.6,2015,Drama
+25,The Passing,92,PG-13,2.2,2011,Horror
+3,'77,113,G,2.1,2017,Drama
+17,Dinner for Schmucks,114,G,5.1,2010,Comedia
+35,The Devil You Know,76,G,2.0,2013,Thriller
+11,Anderson's Cross,98,PG,4.2,2010,Comedia
+68,Night Catches Us,90,PG,7.4,2010,Romance
+57,CHIPS,100,PG,3.6,2017,Acción
+53,Red Tails,125,G,5.2,2012,Drama
+24,Mad World,98,PG,7.0,2010,Drama
+70,Kid Cannabis,110,PG,8.9,2014,Biografía
+62,A Thousand Words,91,PG-13,5.2,2012,Comedia
+16,Venus & Vegas,95,PG-13,7.8,2010,Crimen
+49,Hall Pass,105,PG-13,3.7,2011,Romance
+101,Scream,111,NC-17,7.0,1996,Slasher
+96,Maximum Ride,88,PG-13,3.9,2016,Comedia
+97,Waking Madison,89,G,5.2,2010,Drama
+64,Night of the Templar,101,PG,9.0,2013,Horror
+94,Dreamkiller,110,PG-13,8.5,2010,Fantasía oscura
+43,Unstoppable,98,G,3.3,2010,Acción
+34,Satan Hates You,94,NC-17,8.2,2010,Horror
+9,The Three Stooges,92,PG-13,2.1,2012,Comedia
+18,A Million Little Pieces,113,PG-13,4.3,2018,Drama
+33,The Only Living Boy in New York,89,PG,7.0,2017,Drama
+88,Jack and Jill,91,G,3.0,2011,Comedia
+76,Dallas Buyers Club,117,PG,4.9,2013,Biografía
+39,Smoking Nonsmoking,84,PG,3.2,2011,Drama
+63,The Legend of Secret Pass,92,G,8.9,2010,Animación
+75,The Incredible Burt Wonderstone,100,PG,4.6,2013,Comedia
