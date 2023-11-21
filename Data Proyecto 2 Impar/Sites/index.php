@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title> Entrega 2 </title>
+    <title> Entrega 3 </title>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -110,6 +110,11 @@
         </form>
 
         <br>
+
+        <h2>Test Poblar Tablas:</h2>
+        <form action="consultas/conexion_test.php" method="post">
+            <input type="submit" value="Poblar">
+
         <br>
         <br>
     </div>
