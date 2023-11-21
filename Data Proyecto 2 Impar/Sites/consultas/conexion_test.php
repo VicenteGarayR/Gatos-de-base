@@ -1,32 +1,35 @@
 <?php
 include('../templates/header.html');
 
-$nombre = "Ejemplo";
-$apellido = "Ejemplo";
-$edad = 25;
-
-$usuario = $_POST["usuario"];
-
 // Conectar a la base de datos
 require("../config/conexion.php");
 
-// Ejemplo de inserción de datos en la tabla "x"
-$query_insert = "INSERT INTO test (nombre, apellido, edad) VALUES ('$nombre', '$apellido', $edad)";
-$result_insert = $db->prepare($query_insert);
+$command = "python3 Data Proyecto 2 Impar/scripts/clean.py";
 
-if ($result_insert->execute()) {
-    echo "<p>Datos insertados correctamente en la tabla test.</p>";
-} else {
-    echo "<p>Error al insertar datos: " . $db->errorInfo()[2] . "</p>";
-}
+// Ejecutar el comando y obtener la salida
+$data = exec($command, $outputArray, $returnValue);
 
-// Mostrar los resultados en una tabla
+// Dividir la cadena en partes usando la coma como delimitador
+$dataRows = explode("\n", $data);
+
+// Imprimir la tabla
 echo '<table align="center" class="styled-table">';
-echo '<thead><tr><th>Resultado de la consulta SELECT</th></tr></thead>';
-foreach ($dataCollected as $row) {
-    echo '<tr><td>' . $row['peli_id'] . ' - ' . $row['titulo_peli'] . '</td></tr>';
+echo '<thead><tr><th>Nombre</th><th>Apellido</th><th>Edad</th></tr></thead>';
+foreach ($dataRows as $row) {
+    // Dividir cada fila en partes usando la coma como delimitador
+    $rowData = explode(",", $row);
+    $nombre = trim($rowData[0]);
+    $apellidos = trim($rowData[1]);
+    $edad = trim($rowData[2]);
+
+    // Imprimir cada fila de la tabla
+    echo "<tr><td>$nombre</td><td>$apellidos</td><td>$edad</td></tr>";
 }
 echo '</table>';
+
+$usuario = $_POST["usuario"];
+
+// Resto del código...
 
 include('../templates/footer.html');
 ?>
