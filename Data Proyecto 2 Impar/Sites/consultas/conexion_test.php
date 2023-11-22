@@ -4,32 +4,20 @@ include('../templates/header.html');
 // Conectar a la base de datos
 require("../config/conexion.php");
 
-$command = "python3 Data Proyecto 2 Impar/scripts/clean.py";
+// Utilizar sentencia preparada para evitar la inyección de SQL
+$query = "\COPY test (nombre, apellido, edad) FROM 'data/test.csv' DELIMITER ',' CSV HEADER;";
 
-// Ejecutar el comando y obtener la salida
-$data = exec($command, $outputArray, $returnValue);
+// Ejecutar la consulta
+$result = $db->query($query);
 
-// Dividir la cadena en partes usando la coma como delimitador
-$dataRows = explode("\n", $data);
-
-// Imprimir la tabla
-echo '<table align="center" class="styled-table">';
-echo '<thead><tr><th>Nombre</th><th>Apellido</th><th>Edad</th></tr></thead>';
-foreach ($dataRows as $row) {
-    // Dividir cada fila en partes usando la coma como delimitador
-    $rowData = explode(",", $row);
-    $nombre = trim($rowData[0]);
-    $apellidos = trim($rowData[1]);
-    $edad = trim($rowData[2]);
-
-    // Imprimir cada fila de la tabla
-    echo "<tr><td>$nombre</td><td>$apellidos</td><td>$edad</td></tr>";
+// Puedes verificar el resultado de la ejecución si es necesario
+if ($result) {
+    echo "La consulta se ejecutó correctamente.";
+} else {
+    // Si ocurrió algún error
+    $errorInfo = $db->errorInfo();
+    echo "No se pudo insertar a la base de datos: " . $errorInfo[2];
 }
-echo '</table>';
-
-$usuario = $_POST["usuario"];
-
-// Resto del código...
 
 include('../templates/footer.html');
 ?>

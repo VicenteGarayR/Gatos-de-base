@@ -1,0 +1,715 @@
+id,nombre,costo,pid
+11,Peackok,4000,47
+20,DCCanal,4000,67
+11,Peackok,4000,68
+20,DCCanal,4000,25
+14,Movistar+ Lite,7400,30
+6,Disney+,6500,96
+12,Viu,5000,79
+9,Showtime,3200,65
+1,Netflix,4500,67
+8,Hulu,7000,24
+1,Netflix,4500,99
+5,Funimation,3900,61
+5,Funimation,3900,66
+8,Hulu,7000,12
+2,Amazon Prime Video,3700,68
+17,Sky,6400,58
+11,Peackok,4000,97
+9,Showtime,3200,69
+17,Sky,6400,94
+17,Sky,6400,29
+7,Star+,7100,85
+5,Funimation,3900,18
+5,Funimation,3900,97
+1,Netflix,4500,33
+11,Peackok,4000,8
+5,Funimation,3900,16
+18,ATRESplayer,2800,52
+14,Movistar+ Lite,7400,43
+14,Movistar+ Lite,7400,50
+5,Funimation,3900,53
+6,Disney+,6500,77
+19,Mitele Plus,3700,81
+4,HBO+,3500,55
+18,ATRESplayer,2800,23
+14,Movistar+ Lite,7400,1
+6,Disney+,6500,1
+16,Rakuten TV,6500,71
+1,Netflix,4500,65
+1,Netflix,4500,47
+13,Sony Liv,3100,87
+17,Sky,6400,90
+17,Sky,6400,50
+16,Rakuten TV,6500,81
+2,Amazon Prime Video,3700,82
+11,Peackok,4000,70
+9,Showtime,3200,71
+18,ATRESplayer,2800,98
+1,Netflix,4500,62
+16,Rakuten TV,6500,14
+13,Sony Liv,3100,77
+5,Funimation,3900,92
+2,Amazon Prime Video,3700,70
+1,Netflix,4500,91
+15,Discovery+,3700,12
+16,Rakuten TV,6500,34
+14,Movistar+ Lite,7400,79
+19,Mitele Plus,3700,15
+7,Star+,7100,53
+1,Netflix,4500,1
+9,Showtime,3200,60
+18,ATRESplayer,2800,57
+5,Funimation,3900,22
+9,Showtime,3200,85
+1,Netflix,4500,18
+12,Viu,5000,80
+1,Netflix,4500,69
+7,Star+,7100,25
+6,Disney+,6500,5
+11,Peackok,4000,21
+19,Mitele Plus,3700,84
+9,Showtime,3200,56
+1,Netflix,4500,90
+14,Movistar+ Lite,7400,53
+14,Movistar+ Lite,7400,48
+1,Netflix,4500,56
+12,Viu,5000,66
+18,ATRESplayer,2800,32
+16,Rakuten TV,6500,51
+4,HBO+,3500,30
+8,Hulu,7000,57
+14,Movistar+ Lite,7400,25
+6,Disney+,6500,28
+7,Star+,7100,16
+16,Rakuten TV,6500,31
+12,Viu,5000,32
+5,Funimation,3900,17
+2,Amazon Prime Video,3700,79
+1,Netflix,4500,6
+19,Mitele Plus,3700,12
+11,Peackok,4000,2
+5,Funimation,3900,56
+15,Discovery+,3700,73
+2,Amazon Prime Video,3700,42
+11,Peackok,4000,31
+4,HBO+,3500,58
+17,Sky,6400,95
+19,Mitele Plus,3700,23
+6,Disney+,6500,45
+6,Disney+,6500,69
+2,Amazon Prime Video,3700,65
+7,Star+,7100,15
+12,Viu,5000,71
+11,Peackok,4000,14
+14,Movistar+ Lite,7400,84
+17,Sky,6400,59
+5,Funimation,3900,63
+7,Star+,7100,23
+5,Funimation,3900,43
+2,Amazon Prime Video,3700,67
+9,Showtime,3200,46
+2,Amazon Prime Video,3700,77
+13,Sony Liv,3100,29
+18,ATRESplayer,2800,74
+1,Netflix,4500,11
+18,ATRESplayer,2800,20
+16,Rakuten TV,6500,17
+8,Hulu,7000,52
+14,Movistar+ Lite,7400,73
+15,Discovery+,3700,21
+7,Star+,7100,73
+1,Netflix,4500,94
+11,Peackok,4000,99
+1,Netflix,4500,63
+16,Rakuten TV,6500,63
+17,Sky,6400,55
+2,Amazon Prime Video,3700,101
+18,ATRESplayer,2800,81
+10,Stan,7900,58
+5,Funimation,3900,25
+4,HBO+,3500,6
+11,Peackok,4000,93
+10,Stan,7900,94
+6,Disney+,6500,31
+5,Funimation,3900,98
+5,Funimation,3900,67
+7,Star+,7100,83
+2,Amazon Prime Video,3700,54
+9,Showtime,3200,8
+17,Sky,6400,2
+17,Sky,6400,8
+1,Netflix,4500,28
+14,Movistar+ Lite,7400,68
+15,Discovery+,3700,20
+11,Peackok,4000,50
+5,Funimation,3900,59
+16,Rakuten TV,6500,101
+2,Amazon Prime Video,3700,32
+7,Star+,7100,72
+17,Sky,6400,53
+6,Disney+,6500,4
+8,Hulu,7000,33
+13,Sony Liv,3100,63
+18,ATRESplayer,2800,83
+11,Peackok,4000,56
+7,Star+,7100,14
+5,Funimation,3900,69
+20,DCCanal,4000,69
+2,Amazon Prime Video,3700,76
+11,Peackok,4000,27
+9,Showtime,3200,44
+7,Star+,7100,91
+14,Movistar+ Lite,7400,96
+2,Amazon Prime Video,3700,61
+11,Peackok,4000,60
+19,Mitele Plus,3700,101
+1,Netflix,4500,50
+4,HBO+,3500,4
+17,Sky,6400,43
+14,Movistar+ Lite,7400,34
+16,Rakuten TV,6500,52
+17,Sky,6400,41
+17,Sky,6400,86
+14,Movistar+ Lite,7400,15
+7,Star+,7100,28
+2,Amazon Prime Video,3700,97
+1,Netflix,4500,87
+16,Rakuten TV,6500,69
+1,Netflix,4500,82
+15,Discovery+,3700,97
+19,Mitele Plus,3700,58
+8,Hulu,7000,18
+1,Netflix,4500,66
+10,Stan,7900,76
+6,Disney+,6500,2
+18,ATRESplayer,2800,56
+5,Funimation,3900,73
+19,Mitele Plus,3700,61
+1,Netflix,4500,72
+7,Star+,7100,90
+9,Showtime,3200,87
+15,Discovery+,3700,75
+2,Amazon Prime Video,3700,100
+19,Mitele Plus,3700,21
+16,Rakuten TV,6500,44
+8,Hulu,7000,74
+1,Netflix,4500,24
+2,Amazon Prime Video,3700,13
+13,Sony Liv,3100,92
+20,DCCanal,4000,58
+4,HBO+,3500,12
+12,Viu,5000,82
+8,Hulu,7000,49
+6,Disney+,6500,59
+6,Disney+,6500,9
+16,Rakuten TV,6500,90
+16,Rakuten TV,6500,24
+5,Funimation,3900,27
+11,Peackok,4000,46
+7,Star+,7100,94
+1,Netflix,4500,30
+17,Sky,6400,52
+15,Discovery+,3700,87
+2,Amazon Prime Video,3700,83
+12,Viu,5000,54
+18,ATRESplayer,2800,28
+8,Hulu,7000,76
+18,ATRESplayer,2800,68
+11,Peackok,4000,30
+14,Movistar+ Lite,7400,59
+16,Rakuten TV,6500,68
+1,Netflix,4500,71
+12,Viu,5000,11
+6,Disney+,6500,12
+4,HBO+,3500,99
+6,Disney+,6500,15
+5,Funimation,3900,7
+19,Mitele Plus,3700,45
+1,Netflix,4500,46
+11,Peackok,4000,91
+19,Mitele Plus,3700,28
+6,Disney+,6500,71
+15,Discovery+,3700,60
+6,Disney+,6500,16
+18,ATRESplayer,2800,30
+4,HBO+,3500,85
+2,Amazon Prime Video,3700,96
+2,Amazon Prime Video,3700,86
+7,Star+,7100,5
+6,Disney+,6500,88
+4,HBO+,3500,51
+13,Sony Liv,3100,1
+11,Peackok,4000,55
+14,Movistar+ Lite,7400,29
+19,Mitele Plus,3700,4
+6,Disney+,6500,83
+11,Peackok,4000,45
+12,Viu,5000,60
+15,Discovery+,3700,94
+5,Funimation,3900,100
+1,Netflix,4500,73
+7,Star+,7100,93
+5,Funimation,3900,55
+1,Netflix,4500,10
+17,Sky,6400,79
+20,DCCanal,4000,76
+18,ATRESplayer,2800,18
+19,Mitele Plus,3700,10
+4,HBO+,3500,56
+2,Amazon Prime Video,3700,66
+4,HBO+,3500,86
+7,Star+,7100,30
+3,Crunchyroll,4400,81
+8,Hulu,7000,37
+20,DCCanal,4000,101
+1,Netflix,4500,70
+15,Discovery+,3700,42
+5,Funimation,3900,74
+5,Funimation,3900,44
+2,Amazon Prime Video,3700,15
+11,Peackok,4000,44
+18,ATRESplayer,2800,45
+6,Disney+,6500,91
+5,Funimation,3900,21
+11,Peackok,4000,81
+17,Sky,6400,40
+2,Amazon Prime Video,3700,21
+2,Amazon Prime Video,3700,20
+12,Viu,5000,20
+16,Rakuten TV,6500,3
+2,Amazon Prime Video,3700,19
+5,Funimation,3900,52
+2,Amazon Prime Video,3700,1
+1,Netflix,4500,45
+5,Funimation,3900,89
+19,Mitele Plus,3700,51
+6,Disney+,6500,49
+14,Movistar+ Lite,7400,16
+17,Sky,6400,6
+6,Disney+,6500,36
+7,Star+,7100,1
+17,Sky,6400,62
+2,Amazon Prime Video,3700,7
+5,Funimation,3900,76
+8,Hulu,7000,86
+17,Sky,6400,82
+1,Netflix,4500,96
+3,Crunchyroll,4400,68
+3,Crunchyroll,4400,99
+2,Amazon Prime Video,3700,23
+16,Rakuten TV,6500,11
+5,Funimation,3900,31
+18,ATRESplayer,2800,40
+4,HBO+,3500,100
+11,Peackok,4000,66
+19,Mitele Plus,3700,14
+6,Disney+,6500,52
+17,Sky,6400,92
+6,Disney+,6500,34
+2,Amazon Prime Video,3700,58
+1,Netflix,4500,88
+5,Funimation,3900,95
+11,Peackok,4000,49
+20,DCCanal,4000,61
+11,Peackok,4000,64
+14,Movistar+ Lite,7400,78
+15,Discovery+,3700,46
+7,Star+,7100,33
+15,Discovery+,3700,37
+5,Funimation,3900,3
+3,Crunchyroll,4400,70
+5,Funimation,3900,15
+2,Amazon Prime Video,3700,91
+15,Discovery+,3700,53
+4,HBO+,3500,14
+9,Showtime,3200,79
+13,Sony Liv,3100,85
+1,Netflix,4500,68
+9,Showtime,3200,53
+17,Sky,6400,76
+2,Amazon Prime Video,3700,98
+2,Amazon Prime Video,3700,10
+5,Funimation,3900,6
+1,Netflix,4500,34
+11,Peackok,4000,12
+2,Amazon Prime Video,3700,16
+1,Netflix,4500,17
+12,Viu,5000,26
+14,Movistar+ Lite,7400,33
+16,Rakuten TV,6500,12
+5,Funimation,3900,24
+2,Amazon Prime Video,3700,52
+15,Discovery+,3700,29
+6,Disney+,6500,86
+1,Netflix,4500,14
+9,Showtime,3200,29
+5,Funimation,3900,13
+16,Rakuten TV,6500,91
+5,Funimation,3900,84
+8,Hulu,7000,92
+1,Netflix,4500,40
+18,ATRESplayer,2800,95
+6,Disney+,6500,92
+1,Netflix,4500,98
+11,Peackok,4000,51
+5,Funimation,3900,35
+14,Movistar+ Lite,7400,22
+7,Star+,7100,34
+12,Viu,5000,19
+2,Amazon Prime Video,3700,93
+7,Star+,7100,89
+11,Peackok,4000,58
+7,Star+,7100,98
+4,HBO+,3500,20
+17,Sky,6400,66
+14,Movistar+ Lite,7400,72
+5,Funimation,3900,4
+9,Showtime,3200,35
+17,Sky,6400,96
+16,Rakuten TV,6500,57
+8,Hulu,7000,43
+6,Disney+,6500,21
+6,Disney+,6500,70
+8,Hulu,7000,9
+1,Netflix,4500,13
+7,Star+,7100,80
+19,Mitele Plus,3700,74
+6,Disney+,6500,76
+11,Peackok,4000,88
+10,Stan,7900,57
+6,Disney+,6500,37
+6,Disney+,6500,44
+8,Hulu,7000,14
+8,Hulu,7000,5
+2,Amazon Prime Video,3700,37
+15,Discovery+,3700,79
+19,Mitele Plus,3700,34
+18,ATRESplayer,2800,61
+9,Showtime,3200,47
+20,DCCanal,4000,95
+18,ATRESplayer,2800,97
+15,Discovery+,3700,18
+2,Amazon Prime Video,3700,90
+18,ATRESplayer,2800,86
+12,Viu,5000,15
+1,Netflix,4500,84
+16,Rakuten TV,6500,39
+5,Funimation,3900,36
+12,Viu,5000,101
+6,Disney+,6500,27
+8,Hulu,7000,94
+17,Sky,6400,46
+8,Hulu,7000,30
+14,Movistar+ Lite,7400,89
+1,Netflix,4500,31
+3,Crunchyroll,4400,80
+5,Funimation,3900,57
+5,Funimation,3900,34
+2,Amazon Prime Video,3700,71
+16,Rakuten TV,6500,59
+15,Discovery+,3700,61
+9,Showtime,3200,21
+16,Rakuten TV,6500,83
+3,Crunchyroll,4400,23
+17,Sky,6400,15
+2,Amazon Prime Video,3700,59
+1,Netflix,4500,92
+19,Mitele Plus,3700,25
+12,Viu,5000,41
+18,ATRESplayer,2800,90
+12,Viu,5000,33
+6,Disney+,6500,11
+3,Crunchyroll,4400,25
+15,Discovery+,3700,56
+20,DCCanal,4000,20
+2,Amazon Prime Video,3700,6
+5,Funimation,3900,11
+6,Disney+,6500,68
+11,Peackok,4000,54
+4,HBO+,3500,21
+19,Mitele Plus,3700,71
+1,Netflix,4500,37
+5,Funimation,3900,87
+9,Showtime,3200,41
+19,Mitele Plus,3700,9
+19,Mitele Plus,3700,26
+18,ATRESplayer,2800,88
+14,Movistar+ Lite,7400,13
+7,Star+,7100,99
+1,Netflix,4500,36
+8,Hulu,7000,28
+2,Amazon Prime Video,3700,48
+4,HBO+,3500,61
+2,Amazon Prime Video,3700,73
+6,Disney+,6500,23
+2,Amazon Prime Video,3700,87
+11,Peackok,4000,89
+6,Disney+,6500,42
+7,Star+,7100,51
+14,Movistar+ Lite,7400,9
+17,Sky,6400,91
+14,Movistar+ Lite,7400,97
+6,Disney+,6500,6
+6,Disney+,6500,54
+14,Movistar+ Lite,7400,80
+7,Star+,7100,3
+18,ATRESplayer,2800,10
+14,Movistar+ Lite,7400,66
+15,Discovery+,3700,85
+14,Movistar+ Lite,7400,64
+7,Star+,7100,6
+10,Stan,7900,19
+1,Netflix,4500,59
+18,ATRESplayer,2800,1
+11,Peackok,4000,94
+1,Netflix,4500,81
+1,Netflix,4500,7
+5,Funimation,3900,26
+5,Funimation,3900,49
+17,Sky,6400,16
+9,Showtime,3200,43
+5,Funimation,3900,38
+5,Funimation,3900,41
+15,Discovery+,3700,1
+2,Amazon Prime Video,3700,34
+6,Disney+,6500,62
+18,ATRESplayer,2800,29
+14,Movistar+ Lite,7400,77
+7,Star+,7100,44
+15,Discovery+,3700,59
+12,Viu,5000,100
+2,Amazon Prime Video,3700,26
+16,Rakuten TV,6500,9
+17,Sky,6400,74
+10,Stan,7900,85
+16,Rakuten TV,6500,55
+9,Showtime,3200,62
+17,Sky,6400,64
+17,Sky,6400,33
+16,Rakuten TV,6500,66
+17,Sky,6400,17
+5,Funimation,3900,93
+6,Disney+,6500,24
+11,Peackok,4000,52
+15,Discovery+,3700,45
+1,Netflix,4500,53
+14,Movistar+ Lite,7400,27
+2,Amazon Prime Video,3700,57
+6,Disney+,6500,41
+17,Sky,6400,97
+8,Hulu,7000,89
+9,Showtime,3200,93
+7,Star+,7100,84
+3,Crunchyroll,4400,54
+19,Mitele Plus,3700,56
+11,Peackok,4000,4
+18,ATRESplayer,2800,5
+7,Star+,7100,71
+2,Amazon Prime Video,3700,94
+19,Mitele Plus,3700,42
+18,ATRESplayer,2800,58
+11,Peackok,4000,17
+9,Showtime,3200,58
+4,HBO+,3500,9
+7,Star+,7100,60
+1,Netflix,4500,43
+11,Peackok,4000,35
+3,Crunchyroll,4400,43
+11,Peackok,4000,71
+6,Disney+,6500,55
+19,Mitele Plus,3700,85
+1,Netflix,4500,21
+14,Movistar+ Lite,7400,14
+8,Hulu,7000,78
+7,Star+,7100,9
+12,Viu,5000,96
+19,Mitele Plus,3700,41
+4,HBO+,3500,29
+1,Netflix,4500,79
+15,Discovery+,3700,95
+6,Disney+,6500,30
+14,Movistar+ Lite,7400,2
+17,Sky,6400,83
+7,Star+,7100,22
+7,Star+,7100,47
+8,Hulu,7000,41
+1,Netflix,4500,95
+14,Movistar+ Lite,7400,23
+8,Hulu,7000,79
+14,Movistar+ Lite,7400,26
+11,Peackok,4000,67
+1,Netflix,4500,8
+4,HBO+,3500,15
+9,Showtime,3200,26
+19,Mitele Plus,3700,13
+19,Mitele Plus,3700,22
+14,Movistar+ Lite,7400,100
+1,Netflix,4500,27
+6,Disney+,6500,65
+3,Crunchyroll,4400,94
+7,Star+,7100,79
+16,Rakuten TV,6500,74
+7,Star+,7100,26
+19,Mitele Plus,3700,11
+2,Amazon Prime Video,3700,92
+6,Disney+,6500,78
+5,Funimation,3900,14
+14,Movistar+ Lite,7400,21
+14,Movistar+ Lite,7400,49
+9,Showtime,3200,75
+1,Netflix,4500,57
+18,ATRESplayer,2800,63
+2,Amazon Prime Video,3700,5
+8,Hulu,7000,44
+17,Sky,6400,61
+14,Movistar+ Lite,7400,8
+8,Hulu,7000,6
+6,Disney+,6500,98
+1,Netflix,4500,75
+1,Netflix,4500,20
+11,Peackok,4000,85
+19,Mitele Plus,3700,83
+16,Rakuten TV,6500,98
+8,Hulu,7000,81
+8,Hulu,7000,62
+9,Showtime,3200,40
+11,Peackok,4000,15
+6,Disney+,6500,19
+11,Peackok,4000,1
+5,Funimation,3900,20
+7,Star+,7100,67
+16,Rakuten TV,6500,53
+11,Peackok,4000,77
+8,Hulu,7000,47
+6,Disney+,6500,80
+1,Netflix,4500,42
+9,Showtime,3200,52
+6,Disney+,6500,94
+8,Hulu,7000,42
+17,Sky,6400,14
+13,Sony Liv,3100,42
+7,Star+,7100,101
+2,Amazon Prime Video,3700,47
+6,Disney+,6500,79
+19,Mitele Plus,3700,20
+5,Funimation,3900,82
+1,Netflix,4500,61
+2,Amazon Prime Video,3700,29
+15,Discovery+,3700,9
+16,Rakuten TV,6500,67
+7,Star+,7100,38
+19,Mitele Plus,3700,94
+7,Star+,7100,77
+7,Star+,7100,59
+18,ATRESplayer,2800,99
+15,Discovery+,3700,81
+2,Amazon Prime Video,3700,36
+12,Viu,5000,10
+2,Amazon Prime Video,3700,85
+7,Star+,7100,97
+14,Movistar+ Lite,7400,3
+18,ATRESplayer,2800,93
+5,Funimation,3900,19
+17,Sky,6400,20
+7,Star+,7100,100
+5,Funimation,3900,42
+5,Funimation,3900,47
+14,Movistar+ Lite,7400,101
+5,Funimation,3900,80
+7,Star+,7100,54
+3,Crunchyroll,4400,3
+2,Amazon Prime Video,3700,28
+6,Disney+,6500,20
+8,Hulu,7000,15
+2,Amazon Prime Video,3700,30
+11,Peackok,4000,53
+15,Discovery+,3700,3
+12,Viu,5000,22
+1,Netflix,4500,58
+17,Sky,6400,12
+8,Hulu,7000,83
+17,Sky,6400,44
+6,Disney+,6500,99
+8,Hulu,7000,95
+14,Movistar+ Lite,7400,55
+6,Disney+,6500,56
+14,Movistar+ Lite,7400,28
+18,ATRESplayer,2800,85
+5,Funimation,3900,2
+14,Movistar+ Lite,7400,57
+4,HBO+,3500,57
+15,Discovery+,3700,39
+1,Netflix,4500,9
+14,Movistar+ Lite,7400,70
+19,Mitele Plus,3700,57
+11,Peackok,4000,41
+18,ATRESplayer,2800,15
+12,Viu,5000,99
+2,Amazon Prime Video,3700,24
+6,Disney+,6500,3
+13,Sony Liv,3100,49
+6,Disney+,6500,81
+9,Showtime,3200,48
+3,Crunchyroll,4400,28
+18,ATRESplayer,2800,39
+15,Discovery+,3700,76
+9,Showtime,3200,86
+13,Sony Liv,3100,90
+5,Funimation,3900,10
+6,Disney+,6500,67
+8,Hulu,7000,19
+11,Peackok,4000,98
+13,Sony Liv,3100,70
+12,Viu,5000,21
+13,Sony Liv,3100,91
+18,ATRESplayer,2800,2
+5,Funimation,3900,60
+7,Star+,7100,11
+5,Funimation,3900,1
+1,Netflix,4500,22
+4,HBO+,3500,53
+7,Star+,7100,68
+2,Amazon Prime Video,3700,46
+2,Amazon Prime Video,3700,27
+17,Sky,6400,36
+19,Mitele Plus,3700,91
+16,Rakuten TV,6500,47
+9,Showtime,3200,91
+16,Rakuten TV,6500,29
+19,Mitele Plus,3700,95
+15,Discovery+,3700,54
+2,Amazon Prime Video,3700,88
+5,Funimation,3900,94
+14,Movistar+ Lite,7400,86
+15,Discovery+,3700,22
+6,Disney+,6500,60
+1,Netflix,4500,93
+11,Peackok,4000,32
+18,ATRESplayer,2800,19
+4,HBO+,3500,64
+19,Mitele Plus,3700,19
+1,Netflix,4500,44
+14,Movistar+ Lite,7400,92
+7,Star+,7100,40
+6,Disney+,6500,46
+15,Discovery+,3700,31
+5,Funimation,3900,32
+14,Movistar+ Lite,7400,67
+5,Funimation,3900,58
+11,Peackok,4000,92
+7,Star+,7100,10
+3,Crunchyroll,4400,20
+11,Peackok,4000,43
+18,ATRESplayer,2800,51
+6,Disney+,6500,33
+2,Amazon Prime Video,3700,56
+12,Viu,5000,45
+18,ATRESplayer,2800,59
+18,ATRESplayer,2800,72
+9,Showtime,3200,74
+17,Sky,6400,22
+3,Crunchyroll,4400,1
+3,Crunchyroll,4400,30
+16,Rakuten TV,6500,28
+9,Showtime,3200,96

@@ -1,0 +1,129 @@
+id,estado,fecha_inicio,pro_id,uid,fecha_termino,proveedor,costo
+382,cancelada,13/11/2021,12,1,24/11/2023,Viu,5000
+381,cancelada,5/8/2020,8,1,26/11/2020,Hulu,7000
+379,cancelada,16/6/2021,14,1,19/11/2023,Movistar+ Lite,7400
+380,cancelada,12/12/2021,10,1,18/12/2023,Stan,7900
+397,cancelada,26/6/2021,9,4,31/8/2023,Showtime,3200
+398,cancelada,25/7/2020,5,4,10/10/2020,Funimation,3900
+400,cancelada,22/8/2020,1,4,27/9/2023,Netflix,4500
+399,cancelada,30/11/2020,7,4,2/10/2023,Star+,7100
+339,cancelada,9/11/2021,7,5,3/12/2023,Star+,7100
+334,cancelada,3/11/2021,3,8,9/11/2023,Crunchyroll,4400
+335,cancelada,15/7/2021,12,8,28/10/2023,Viu,5000
+27,cancelada,30/10/2021,13,9,12/11/2023,Sony Liv,3100
+308,cancelada,7/9/2021,1,11,28/9/2023,Netflix,4500
+307,cancelada,13/10/2020,16,11,30/6/2023,Rakuten TV,6500
+310,cancelada,3/10/2020,7,11,11/8/2023,Star+,7100
+189,cancelada,13/7/2021,6,13,16/12/2023,Disney+,6500
+163,cancelada,12/5/2021,17,14,4/10/2023,Sky,6400
+165,cancelada,26/6/2021,10,14,16/9/2023,Stan,7900
+203,cancelada,31/12/2020,15,15,29/11/2023,Discovery+,3700
+248,cancelada,29/6/2020,15,16,26/2/2023,Discovery+,3700
+251,cancelada,12/7/2021,5,16,20/11/2023,Funimation,3900
+342,cancelada,25/6/2020,5,17,14/11/2023,Funimation,3900
+185,cancelada,9/1/2021,15,18,14/11/2023,Discovery+,3700
+221,cancelada,9/6/2020,7,19,16/10/2020,Star+,7100
+162,cancelada,5/5/2020,20,20,14/7/2020,DCCanal,4000
+183,cancelada,20/7/2020,13,21,20/1/2023,Sony Liv,3100
+184,cancelada,25/5/2021,7,21,7/7/2023,Star+,7100
+209,cancelada,23/4/2021,3,22,13/11/2023,Crunchyroll,4400
+270,cancelada,29/8/2021,9,23,23/9/2023,Showtime,3200
+269,cancelada,28/8/2020,11,23,15/5/2023,Peackok,4000
+304,cancelada,3/10/2020,2,24,12/8/2023,Amazon Prime Video,3700
+290,cancelada,17/10/2021,5,26,13/11/2023,Funimation,3900
+291,cancelada,1/7/2021,11,26,11/8/2023,Peackok,4000
+288,cancelada,24/12/2020,16,26,30/11/2023,Rakuten TV,6500
+289,cancelada,24/1/2021,8,26,17/3/2023,Hulu,7000
+233,cancelada,4/6/2021,20,28,20/7/2023,DCCanal,4000
+1,cancelada,8/6/2021,8,29,2/9/2023,Hulu,7000
+30,cancelada,6/6/2021,15,30,26/6/2023,Discovery+,3700
+315,cancelada,9/3/2021,13,31,18/10/2023,Sony Liv,3100
+314,cancelada,5/10/2020,9,31,7/12/2020,Showtime,3200
+311,cancelada,25/10/2020,17,31,8/7/2023,Sky,6400
+33,cancelada,21/12/2020,12,32,1/10/2023,Viu,5000
+105,cancelada,17/1/2021,19,33,2/11/2023,Mitele Plus,3700
+179,cancelada,4/12/2020,2,34,14/6/2023,Amazon Prime Video,3700
+177,cancelada,9/7/2021,5,34,25/8/2023,Funimation,3900
+178,cancelada,28/3/2021,10,34,31/10/2023,Stan,7900
+142,cancelada,30/5/2020,4,36,2/1/2023,HBO+,3500
+109,cancelada,22/2/2021,19,37,30/11/2023,Mitele Plus,3700
+108,cancelada,10/11/2021,8,37,27/11/2023,Hulu,7000
+401,cancelada,14/9/2020,18,38,6/8/2023,ATRESplayer,2800
+402,cancelada,18/12/2020,13,38,11/9/2023,Sony Liv,3100
+48,cancelada,28/8/2020,5,41,26/1/2023,Funimation,3900
+62,cancelada,17/8/2020,13,42,17/5/2023,Sony Liv,3100
+195,cancelada,20/5/2020,11,43,8/6/2023,Peackok,4000
+198,cancelada,12/9/2021,14,43,16/11/2023,Movistar+ Lite,7400
+77,cancelada,5/6/2020,2,44,20/11/2020,Amazon Prime Video,3700
+75,cancelada,16/7/2021,1,44,14/12/2023,Netflix,4500
+15,cancelada,5/5/2020,19,45,25/1/2023,Mitele Plus,3700
+13,cancelada,18/8/2020,17,45,14/7/2023,Sky,6400
+282,cancelada,27/5/2020,15,46,1/1/2023,Discovery+,3700
+281,cancelada,15/8/2021,17,46,1/11/2023,Sky,6400
+279,cancelada,17/4/2021,7,46,28/7/2023,Star+,7100
+278,cancelada,10/11/2020,10,46,16/3/2023,Stan,7900
+34,cancelada,8/8/2020,5,47,1/10/2023,Funimation,3900
+35,cancelada,15/9/2020,7,47,7/6/2023,Star+,7100
+113,cancelada,7/8/2020,19,51,3/5/2023,Mitele Plus,3700
+111,cancelada,13/3/2021,6,51,23/8/2023,Disney+,6500
+112,cancelada,7/11/2020,10,51,7/11/2020,Stan,7900
+348,cancelada,1/10/2021,13,52,4/12/2023,Sony Liv,3100
+213,cancelada,22/11/2021,11,53,26/11/2023,Peackok,4000
+237,cancelada,28/9/2020,16,54,4/7/2023,Rakuten TV,6500
+241,cancelada,30/5/2021,14,54,12/9/2023,Movistar+ Lite,7400
+139,cancelada,13/6/2020,15,55,24/9/2023,Discovery+,3700
+256,cancelada,24/3/2021,10,56,9/10/2023,Stan,7900
+155,cancelada,14/5/2020,15,57,25/8/2020,Discovery+,3700
+20,cancelada,26/8/2020,13,59,13/6/2023,Sony Liv,3100
+18,cancelada,2/7/2021,19,59,12/10/2023,Mitele Plus,3700
+60,cancelada,29/10/2020,4,60,11/9/2023,HBO+,3500
+61,cancelada,12/7/2021,6,60,28/9/2023,Disney+,6500
+59,cancelada,22/7/2020,10,60,16/1/2023,Stan,7900
+39,cancelada,5/1/2021,4,62,15/9/2023,HBO+,3500
+37,cancelada,9/11/2020,3,62,11/9/2023,Crunchyroll,4400
+40,cancelada,17/6/2021,10,62,21/11/2023,Stan,7900
+327,cancelada,9/7/2021,12,63,22/8/2023,Viu,5000
+365,cancelada,21/8/2021,6,64,13/10/2023,Disney+,6500
+80,cancelada,27/8/2021,8,67,9/12/2023,Hulu,7000
+87,cancelada,14/10/2021,18,70,30/10/2023,ATRESplayer,2800
+151,cancelada,29/1/2021,7,71,7/12/2023,Star+,7100
+152,cancelada,14/4/2021,10,71,3/10/2023,Stan,7900
+366,cancelada,21/8/2021,17,73,26/10/2023,Sky,6400
+131,cancelada,19/5/2021,10,74,18/11/2023,Stan,7900
+148,cancelada,20/7/2020,9,75,29/12/2020,Showtime,3200
+147,cancelada,21/7/2021,12,75,27/10/2023,Viu,5000
+149,cancelada,10/12/2021,14,75,17/12/2023,Movistar+ Lite,7400
+118,cancelada,8/7/2020,15,76,6/12/2020,Discovery+,3700
+114,cancelada,21/7/2021,14,76,27/9/2023,Movistar+ Lite,7400
+287,cancelada,13/2/2021,9,77,12/12/2023,Showtime,3200
+283,cancelada,12/10/2021,10,77,14/11/2023,Stan,7900
+16,cancelada,30/8/2021,9,82,4/9/2023,Showtime,3200
+418,cancelada,2/9/2021,8,90,6/10/2023,Hulu,7000
+91,cancelada,6/4/2021,4,92,25/5/2023,HBO+,3500
+93,cancelada,25/6/2020,5,92,10/8/2020,Funimation,3900
+96,cancelada,5/3/2021,1,92,12/5/2023,Netflix,4500
+94,cancelada,12/10/2020,6,92,3/2/2023,Disney+,6500
+92,cancelada,8/12/2021,7,92,14/12/2023,Star+,7100
+265,cancelada,24/1/2021,8,95,8/11/2023,Hulu,7000
+395,cancelada,8/6/2021,9,106,26/6/2023,Showtime,3200
+389,cancelada,8/6/2020,12,106,26/5/2023,Viu,5000
+394,cancelada,21/10/2020,16,106,8/1/2023,Rakuten TV,6500
+391,cancelada,27/5/2021,6,106,24/7/2023,Disney+,6500
+56,cancelada,18/9/2021,9,108,10/12/2023,Showtime,3200
+58,cancelada,14/8/2021,20,108,4/10/2023,DCCanal,4000
+412,cancelada,15/6/2020,19,115,28/9/2020,Mitele Plus,3700
+408,cancelada,24/12/2020,8,115,9/11/2023,Hulu,7000
+356,cancelada,5/7/2021,15,119,19/7/2023,Discovery+,3700
+354,cancelada,22/11/2021,1,119,18/12/2023,Netflix,4500
+358,cancelada,30/7/2021,6,119,19/12/2023,Disney+,6500
+344,cancelada,12/6/2021,4,130,23/9/2023,HBO+,3500
+83,cancelada,20/9/2021,16,133,12/10/2023,Rakuten TV,6500
+82,cancelada,27/7/2020,8,133,6/7/2023,Hulu,7000
+316,cancelada,30/6/2021,5,134,5/10/2023,Funimation,3900
+317,cancelada,6/10/2021,6,134,21/10/2023,Disney+,6500
+318,cancelada,29/7/2020,7,134,17/10/2020,Star+,7100
+8,cancelada,6/5/2020,9,141,6/12/2023,Showtime,3200
+7,cancelada,10/6/2020,5,141,26/7/2023,Funimation,3900
+9,cancelada,30/1/2021,14,141,18/4/2023,Movistar+ Lite,7400
+383,cancelada,9/8/2020,12,142,29/8/2020,Viu,5000
+24,cancelada,6/5/2021,9,146,10/11/2023,Showtime,3200
