@@ -7,24 +7,6 @@
 </head>
 
 <body>
-    <div class='encabezado'>
-        <table align="center">
-            <tr>
-                <td width="25%">
-                    <img src="logo.png" alt="Logo UC" width='50%' height="auto" style="background-color: white; border-radius: 30px; padding:0;">
-                </td>
-                <td width="50%">
-                    <h1>Grupo 1 ft Grupo 2</h1>
-                    <h2>Benjamín Ruiz - Matías Pineda - Benjamín Thareau - Vicente Garay</h2>
-                    <h2>IIC2413 - Bases de Datos</h2>
-                    <p>Aquí podrás encontrar toda la información de películas y series, además de videojuegos</p>
-                </td>
-                <td width="25%">
-                    <img src="oruga.jpg" alt="Oruga Mamalona" width='30%' height="auto" style="border-radius: 20px;">
-                </td>
-            </tr>
-        </table>
-    </div>
     <div>
         <h2>Query 1:</h2>
         <form action="consultas/conexion_test.php" method="post">

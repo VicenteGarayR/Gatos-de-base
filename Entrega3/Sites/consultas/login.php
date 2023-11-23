@@ -1,26 +1,29 @@
 <?php
-
+session_start();
 include('../templates/header.html');
 require("../config/conexion.php");
-
-echo '<body> <h1> Result Login </h1> <br>';
 
 $user = $_POST['user'];
 $password = $_POST['password'];
 
-echo "1User: $user <br>";
-echo "1Password: $password <br>";
-
-$query = "SELECT verificar ('$user', '$password') AS var;";
-$result = $db -> prepare($query);
-$result -> execute();
-
-echo "2User: $user <br>";
-echo "2Password: $password <br>";
-
-$verificacion = $result->fetch(PDO::FETCH_ASSOC);
-
-
-include('../templates/footer.html');
-
+try {
+    $query = "SELECT username FROM usuarios INNER JOIN informacion_usuarios as info ON usuarios.id = info.id WHERE usuarios.username = '$user' AND info.password = '$password';";
+    $result = $db -> query($query);
+    // Ejecutamos la query
+    $result = $db -> prepare($query);
+    $result -> execute();
+    $result = $result -> fetchAll();
+    if (count($result) == 0) {
+        echo "<br>Usuario o contraseña incorrectos<br>";
+        echo "<br><a href='../index.php'>Volver a intentar</a><br>";
+    } else {
+        // En caso de que el usuario exista, se crea una sesión con su nombre y se le redirige a la página con las consultas
+        echo "<br>Inicio de sesión exitoso<br>";
+        $_SESSION['user'] = $user;
+        header("Location: mi_perfil.php");
+        
+    }
+} catch (PDOException $e) {
+    echo 'Error de la base de datos: ' . $e->getMessage();
+}
 ?>
