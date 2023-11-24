@@ -6,8 +6,8 @@ CREATE TABLE generos (
 );
 
 CREATE TABLE subgeneros (
-    genero VARCHAR(80) NOT NULL,
     subgenero VARCHAR(80) NOT NULL,
+    genero VARCHAR(80) NOT NULL,
     FOREIGN KEY (genero) REFERENCES public.generos(genero) ON DELETE CASCADE
 );
 
@@ -61,7 +61,7 @@ CREATE TABLE capitulo_genero (
 );
 
 CREATE TABLE proveedores_series (
-    id INT NOT NULL PRIMARY KEY,
+    id INT NOT NULL,
     nombre VARCHAR(80) NOT NULL,
     costo INT NOT NULL,
     id_serie INT NOT NULL,
@@ -69,7 +69,7 @@ CREATE TABLE proveedores_series (
 );
 
 CREATE TABLE proveedores_peli (
-    id INT NOT NULL PRIMARY KEY,
+    id INT NOT NULL,
     nombre VARCHAR(80),
     costo INT NOT NULL,
     id_pelicula INT NOT NULL,
@@ -100,36 +100,6 @@ CREATE TABLE sub_cancelada (
     FOREIGN KEY (id_usuario) REFERENCES public.usuarios(id) ON DELETE CASCADE
 );
 
-CREATE TABLE pago_sub (
-    id INT NOT NULL PRIMARY KEY,
-    monto INT NOT NULL,
-    fecha DATE NOT NULL,
-    id_usuario INT NOT NULL,
-    id_sub INT NOT NULL,
-    FOREIGN KEY (id_usuario) REFERENCES public.usuarios(id) ON DELETE CASCADE
-);
-
-CREATE TABLE proveedor_pelis_extra (
-    id INT NOT NULL PRIMARY KEY,
-    nombre VARCHAR(80) NOT NULL,
-    costo INT NOT NULL,
-    id_pelicula INT NOT NULL,
-    precio INT NOT NULL,
-    disponibilidad INT NOT NULL,
-    FOREIGN KEY (id_pelicula) REFERENCES public.peliculas(id) ON DELETE CASCADE
-);
-
-CREATE TABLE pago_peli (
-    id INT NOT NULL PRIMARY KEY,
-    monto INT NOT NULL,
-    fecha DATE NOT NULL,
-    id_usuario INT NOT NULL,
-    id_pelicula INT NOT NULL,
-    id_proveedor INT NOT NULL,
-    FOREIGN KEY (id_pelicula) REFERENCES public.peliculas(id) ON DELETE CASCADE,
-    FOREIGN KEY (id_usuario) REFERENCES public.usuarios(id) ON DELETE CASCADE
-);
-
 CREATE TABLE detalle_sub(
     id INT NOT NULL PRIMARY KEY,
     fecha DATE NOT NULL,
@@ -145,6 +115,33 @@ CREATE TABLE detalle_peli(
     FOREIGN KEY (id_usuario) REFERENCES public.usuarios(id) ON DELETE CASCADE,
     FOREIGN KEY (id_pelicula) REFERENCES public.peliculas(id) ON DELETE CASCADE
 );
+
+
+CREATE TABLE pago_sub (
+    monto INT NOT NULL,
+    id_usuario INT NOT NULL,
+    id_sub INT NOT NULL,
+    FOREIGN KEY (id_usuario) REFERENCES public.usuarios(id) ON DELETE CASCADE
+);
+
+CREATE TABLE proveedor_pelis_extra (
+    id INT NOT NULL,
+    nombre VARCHAR(80) NOT NULL,
+    costo INT NOT NULL,
+    id_pelicula INT NOT NULL,
+    precio INT NOT NULL,
+    disponibilidad INT NOT NULL,
+    FOREIGN KEY (id_pelicula) REFERENCES public.peliculas(id) ON DELETE CASCADE
+);
+
+CREATE TABLE pago_peli (
+    monto INT NOT NULL,
+    id_pelicula INT NOT NULL,
+    id_proveedor INT NOT NULL,
+    FOREIGN KEY (id_pelicula) REFERENCES public.peliculas(id) ON DELETE CASCADE,
+    FOREIGN KEY (id_usuario) REFERENCES public.usuarios(id) ON DELETE CASCADE
+);
+
 
 CREATE TABLE visualizacion_pelis(
     id_usuario INT NOT NULL,

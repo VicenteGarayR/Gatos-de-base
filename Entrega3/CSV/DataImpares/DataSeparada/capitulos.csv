@@ -1,4 +1,4 @@
-sid,cid,titulo,duracion,numero
+id_serie,id,titulo,duracion,numero
 11,97,La primera polaroid,62,2
 11,96,Casete 1: lado A,60,1
 11,98,Si: soy la chica nueva,56,3

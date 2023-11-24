@@ -1,4 +1,4 @@
-pid,pro_id,monto
+id_pelicula,id_proveedor,monto
 86,20,5000
 43,2,1000
 5,16,6500

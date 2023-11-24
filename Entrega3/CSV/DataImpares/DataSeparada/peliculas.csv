@@ -1,4 +1,4 @@
-pid,titulo,duracion,clasificacion,puntuacion,a√±o,genero
+id,titulo,duracion,clasificacion,puntuacion,year,genero
 1,Return to Babylon,75,G,7.1,2013,Drama
 2,Life's a Beach,100,PG-13,9.0,2012,Comedia
 3,'77,113,G,2.1,2017,Drama

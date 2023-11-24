@@ -30,6 +30,12 @@ foreach ($files as $file) {
 
         while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
             // Crear la consulta SQL
+            $data = array_map(function($value) { 
+                $search = array("√©", "√≥", "√≠", "√°");
+                $replace = array("é", "ó", "í", "á");
+                $value = str_replace($search, $replace, $value);
+                return str_replace("'", "''", $value); 
+            }, $data);
             $values = "'" . implode("', '", $data) . "'";
             $sql = "INSERT INTO $table (".implode(", ", $columns).") VALUES ($values)";
 

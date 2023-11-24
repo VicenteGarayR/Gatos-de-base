@@ -1,4 +1,4 @@
-id,nombre,costo,sid
+id,nombre,costo,id_serie
 7,Star+,7100,10
 9,Showtime,3200,5
 7,Star+,7100,26
